@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/fv.mp3-ccf23468aaa1b4a801b0c154a58888c2.mp3str"
+
+[deps]
+
+source_file="res://ses/fv.mp3"
+dest_files=[ "res://.import/fv.mp3-ccf23468aaa1b4a801b0c154a58888c2.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

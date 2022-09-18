@@ -1,0 +1,6 @@
+[gd_resource type="DynamicFontData" format=2]
+
+[resource]
+resource_local_to_scene = true
+resource_name = "font"
+font_path = "res://earwig_factory rg.ttf"
